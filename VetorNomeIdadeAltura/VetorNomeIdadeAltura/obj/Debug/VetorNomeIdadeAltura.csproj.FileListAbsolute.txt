@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\C#\VetorNomeIdadeAltura\VetorNomeIdadeAltura\bin\Debug\VetorNomeIdadeAltura.exe.config
+C:\Users\Luigi\Desktop\C#\VetorNomeIdadeAltura\VetorNomeIdadeAltura\bin\Debug\VetorNomeIdadeAltura.exe
+C:\Users\Luigi\Desktop\C#\VetorNomeIdadeAltura\VetorNomeIdadeAltura\bin\Debug\VetorNomeIdadeAltura.pdb
+C:\Users\Luigi\Desktop\C#\VetorNomeIdadeAltura\VetorNomeIdadeAltura\obj\Debug\VetorNomeIdadeAltura.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\C#\VetorNomeIdadeAltura\VetorNomeIdadeAltura\obj\Debug\VetorNomeIdadeAltura.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\C#\VetorNomeIdadeAltura\VetorNomeIdadeAltura\obj\Debug\VetorNomeIdadeAltura.exe
+C:\Users\Luigi\Desktop\C#\VetorNomeIdadeAltura\VetorNomeIdadeAltura\obj\Debug\VetorNomeIdadeAltura.pdb

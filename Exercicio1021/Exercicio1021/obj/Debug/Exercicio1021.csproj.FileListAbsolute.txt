@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\C#\Exercicio1021\Exercicio1021\bin\Debug\Exercicio1021.exe.config
+C:\Users\Luigi\Desktop\C#\Exercicio1021\Exercicio1021\bin\Debug\Exercicio1021.exe
+C:\Users\Luigi\Desktop\C#\Exercicio1021\Exercicio1021\bin\Debug\Exercicio1021.pdb
+C:\Users\Luigi\Desktop\C#\Exercicio1021\Exercicio1021\obj\Debug\Exercicio1021.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\C#\Exercicio1021\Exercicio1021\obj\Debug\Exercicio1021.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\C#\Exercicio1021\Exercicio1021\obj\Debug\Exercicio1021.exe
+C:\Users\Luigi\Desktop\C#\Exercicio1021\Exercicio1021\obj\Debug\Exercicio1021.pdb

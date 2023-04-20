@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\C#\MatrizDiagonal\MatrizDiagonal\bin\Debug\MatrizDiagonal.exe.config
+C:\Users\Luigi\Desktop\C#\MatrizDiagonal\MatrizDiagonal\bin\Debug\MatrizDiagonal.exe
+C:\Users\Luigi\Desktop\C#\MatrizDiagonal\MatrizDiagonal\bin\Debug\MatrizDiagonal.pdb
+C:\Users\Luigi\Desktop\C#\MatrizDiagonal\MatrizDiagonal\obj\Debug\MatrizDiagonal.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\C#\MatrizDiagonal\MatrizDiagonal\obj\Debug\MatrizDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\C#\MatrizDiagonal\MatrizDiagonal\obj\Debug\MatrizDiagonal.exe
+C:\Users\Luigi\Desktop\C#\MatrizDiagonal\MatrizDiagonal\obj\Debug\MatrizDiagonal.pdb

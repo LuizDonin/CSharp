@@ -1,0 +1,7 @@
+C:\Users\Luigi\source\repos\WhileNumerosCrescente\WhileNumerosCrescente\bin\Debug\WhileNumerosCrescente.exe.config
+C:\Users\Luigi\source\repos\WhileNumerosCrescente\WhileNumerosCrescente\bin\Debug\WhileNumerosCrescente.exe
+C:\Users\Luigi\source\repos\WhileNumerosCrescente\WhileNumerosCrescente\bin\Debug\WhileNumerosCrescente.pdb
+C:\Users\Luigi\source\repos\WhileNumerosCrescente\WhileNumerosCrescente\obj\Debug\WhileNumerosCrescente.csproj.AssemblyReference.cache
+C:\Users\Luigi\source\repos\WhileNumerosCrescente\WhileNumerosCrescente\obj\Debug\WhileNumerosCrescente.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\source\repos\WhileNumerosCrescente\WhileNumerosCrescente\obj\Debug\WhileNumerosCrescente.exe
+C:\Users\Luigi\source\repos\WhileNumerosCrescente\WhileNumerosCrescente\obj\Debug\WhileNumerosCrescente.pdb

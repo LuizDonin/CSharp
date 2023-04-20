@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetorNomeIdadeAltura", "VetorNomeIdadeAltura\VetorNomeIdadeAltura.csproj", "{FB8BBB01-DE57-4C71-A31A-0C5A71E1AFA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8BBB01-DE57-4C71-A31A-0C5A71E1AFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8BBB01-DE57-4C71-A31A-0C5A71E1AFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8BBB01-DE57-4C71-A31A-0C5A71E1AFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8BBB01-DE57-4C71-A31A-0C5A71E1AFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABEE621-DB75-4453-8CCA-8309649331F0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Luigi\source\repos\EstruturaFor\EstruturaFor\bin\Debug\EstruturaFor.exe.config
+C:\Users\Luigi\source\repos\EstruturaFor\EstruturaFor\bin\Debug\EstruturaFor.exe
+C:\Users\Luigi\source\repos\EstruturaFor\EstruturaFor\bin\Debug\EstruturaFor.pdb
+C:\Users\Luigi\source\repos\EstruturaFor\EstruturaFor\obj\Debug\EstruturaFor.csproj.AssemblyReference.cache
+C:\Users\Luigi\source\repos\EstruturaFor\EstruturaFor\obj\Debug\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\source\repos\EstruturaFor\EstruturaFor\obj\Debug\EstruturaFor.exe
+C:\Users\Luigi\source\repos\EstruturaFor\EstruturaFor\obj\Debug\EstruturaFor.pdb

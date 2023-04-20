@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\C#\VetoresNumerosNegativos\VetoresNumerosNegativos\bin\Debug\VetoresNumerosNegativos.exe.config
+C:\Users\Luigi\Desktop\C#\VetoresNumerosNegativos\VetoresNumerosNegativos\bin\Debug\VetoresNumerosNegativos.exe
+C:\Users\Luigi\Desktop\C#\VetoresNumerosNegativos\VetoresNumerosNegativos\bin\Debug\VetoresNumerosNegativos.pdb
+C:\Users\Luigi\Desktop\C#\VetoresNumerosNegativos\VetoresNumerosNegativos\obj\Debug\VetoresNumerosNegativos.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\C#\VetoresNumerosNegativos\VetoresNumerosNegativos\obj\Debug\VetoresNumerosNegativos.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\C#\VetoresNumerosNegativos\VetoresNumerosNegativos\obj\Debug\VetoresNumerosNegativos.exe
+C:\Users\Luigi\Desktop\C#\VetoresNumerosNegativos\VetoresNumerosNegativos\obj\Debug\VetoresNumerosNegativos.pdb

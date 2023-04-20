@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\C#\ValorVetores\ValorVetores\bin\Debug\ValorVetores.exe.config
+C:\Users\Luigi\Desktop\C#\ValorVetores\ValorVetores\bin\Debug\ValorVetores.exe
+C:\Users\Luigi\Desktop\C#\ValorVetores\ValorVetores\bin\Debug\ValorVetores.pdb
+C:\Users\Luigi\Desktop\C#\ValorVetores\ValorVetores\obj\Debug\ValorVetores.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\C#\ValorVetores\ValorVetores\obj\Debug\ValorVetores.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\C#\ValorVetores\ValorVetores\obj\Debug\ValorVetores.exe
+C:\Users\Luigi\Desktop\C#\ValorVetores\ValorVetores\obj\Debug\ValorVetores.pdb

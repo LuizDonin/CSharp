@@ -1,0 +1,7 @@
+C:\Users\Luigi\source\repos\ExercicioMediaIdades\ExercicioMediaIdades\bin\Debug\ExercicioMediaIdades.exe.config
+C:\Users\Luigi\source\repos\ExercicioMediaIdades\ExercicioMediaIdades\bin\Debug\ExercicioMediaIdades.exe
+C:\Users\Luigi\source\repos\ExercicioMediaIdades\ExercicioMediaIdades\bin\Debug\ExercicioMediaIdades.pdb
+C:\Users\Luigi\source\repos\ExercicioMediaIdades\ExercicioMediaIdades\obj\Debug\ExercicioMediaIdades.csproj.AssemblyReference.cache
+C:\Users\Luigi\source\repos\ExercicioMediaIdades\ExercicioMediaIdades\obj\Debug\ExercicioMediaIdades.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\source\repos\ExercicioMediaIdades\ExercicioMediaIdades\obj\Debug\ExercicioMediaIdades.exe
+C:\Users\Luigi\source\repos\ExercicioMediaIdades\ExercicioMediaIdades\obj\Debug\ExercicioMediaIdades.pdb

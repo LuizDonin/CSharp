@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\C#\VetoresNumerosMedia\VetoresNumerosMedia\bin\Debug\VetoresNumerosMedia.exe.config
+C:\Users\Luigi\Desktop\C#\VetoresNumerosMedia\VetoresNumerosMedia\bin\Debug\VetoresNumerosMedia.exe
+C:\Users\Luigi\Desktop\C#\VetoresNumerosMedia\VetoresNumerosMedia\bin\Debug\VetoresNumerosMedia.pdb
+C:\Users\Luigi\Desktop\C#\VetoresNumerosMedia\VetoresNumerosMedia\obj\Debug\VetoresNumerosMedia.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\C#\VetoresNumerosMedia\VetoresNumerosMedia\obj\Debug\VetoresNumerosMedia.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\C#\VetoresNumerosMedia\VetoresNumerosMedia\obj\Debug\VetoresNumerosMedia.exe
+C:\Users\Luigi\Desktop\C#\VetoresNumerosMedia\VetoresNumerosMedia\obj\Debug\VetoresNumerosMedia.pdb

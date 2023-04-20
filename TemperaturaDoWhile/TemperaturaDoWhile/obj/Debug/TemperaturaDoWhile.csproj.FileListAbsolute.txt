@@ -1,0 +1,7 @@
+C:\Users\Luigi\source\repos\TemperaturaDoWhile\TemperaturaDoWhile\bin\Debug\TemperaturaDoWhile.exe.config
+C:\Users\Luigi\source\repos\TemperaturaDoWhile\TemperaturaDoWhile\bin\Debug\TemperaturaDoWhile.exe
+C:\Users\Luigi\source\repos\TemperaturaDoWhile\TemperaturaDoWhile\bin\Debug\TemperaturaDoWhile.pdb
+C:\Users\Luigi\source\repos\TemperaturaDoWhile\TemperaturaDoWhile\obj\Debug\TemperaturaDoWhile.csproj.AssemblyReference.cache
+C:\Users\Luigi\source\repos\TemperaturaDoWhile\TemperaturaDoWhile\obj\Debug\TemperaturaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\source\repos\TemperaturaDoWhile\TemperaturaDoWhile\obj\Debug\TemperaturaDoWhile.exe
+C:\Users\Luigi\source\repos\TemperaturaDoWhile\TemperaturaDoWhile\obj\Debug\TemperaturaDoWhile.pdb

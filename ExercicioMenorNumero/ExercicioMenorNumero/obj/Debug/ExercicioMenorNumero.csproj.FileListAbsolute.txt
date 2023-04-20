@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\C#\ExercicioMenorNumero\ExercicioMenorNumero\bin\Debug\ExercicioMenorNumero.exe.config
+C:\Users\Luigi\Desktop\C#\ExercicioMenorNumero\ExercicioMenorNumero\bin\Debug\ExercicioMenorNumero.exe
+C:\Users\Luigi\Desktop\C#\ExercicioMenorNumero\ExercicioMenorNumero\bin\Debug\ExercicioMenorNumero.pdb
+C:\Users\Luigi\Desktop\C#\ExercicioMenorNumero\ExercicioMenorNumero\obj\Debug\ExercicioMenorNumero.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\C#\ExercicioMenorNumero\ExercicioMenorNumero\obj\Debug\ExercicioMenorNumero.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\C#\ExercicioMenorNumero\ExercicioMenorNumero\obj\Debug\ExercicioMenorNumero.exe
+C:\Users\Luigi\Desktop\C#\ExercicioMenorNumero\ExercicioMenorNumero\obj\Debug\ExercicioMenorNumero.pdb

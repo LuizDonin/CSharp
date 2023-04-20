@@ -1,0 +1,6 @@
+C:\Users\Luigi\source\repos\SomaNumerosImpares\SomaNumerosImpares\bin\Debug\SomaNumerosImpares.exe.config
+C:\Users\Luigi\source\repos\SomaNumerosImpares\SomaNumerosImpares\bin\Debug\SomaNumerosImpares.exe
+C:\Users\Luigi\source\repos\SomaNumerosImpares\SomaNumerosImpares\bin\Debug\SomaNumerosImpares.pdb
+C:\Users\Luigi\source\repos\SomaNumerosImpares\SomaNumerosImpares\obj\Debug\SomaNumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\source\repos\SomaNumerosImpares\SomaNumerosImpares\obj\Debug\SomaNumerosImpares.exe
+C:\Users\Luigi\source\repos\SomaNumerosImpares\SomaNumerosImpares\obj\Debug\SomaNumerosImpares.pdb

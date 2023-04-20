@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\C#\MatrizGerarVetorSoma\MatrizGerarVetorSoma\bin\Debug\MatrizGerarVetorSoma.exe.config
+C:\Users\Luigi\Desktop\C#\MatrizGerarVetorSoma\MatrizGerarVetorSoma\bin\Debug\MatrizGerarVetorSoma.exe
+C:\Users\Luigi\Desktop\C#\MatrizGerarVetorSoma\MatrizGerarVetorSoma\bin\Debug\MatrizGerarVetorSoma.pdb
+C:\Users\Luigi\Desktop\C#\MatrizGerarVetorSoma\MatrizGerarVetorSoma\obj\Debug\MatrizGerarVetorSoma.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\C#\MatrizGerarVetorSoma\MatrizGerarVetorSoma\obj\Debug\MatrizGerarVetorSoma.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\C#\MatrizGerarVetorSoma\MatrizGerarVetorSoma\obj\Debug\MatrizGerarVetorSoma.exe
+C:\Users\Luigi\Desktop\C#\MatrizGerarVetorSoma\MatrizGerarVetorSoma\obj\Debug\MatrizGerarVetorSoma.pdb

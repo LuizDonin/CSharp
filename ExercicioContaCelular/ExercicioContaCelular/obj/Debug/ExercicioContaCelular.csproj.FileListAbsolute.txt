@@ -1,0 +1,7 @@
+C:\Users\Luigi\Desktop\C#\ExercicioContaCelular\ExercicioContaCelular\bin\Debug\ExercicioContaCelular.exe.config
+C:\Users\Luigi\Desktop\C#\ExercicioContaCelular\ExercicioContaCelular\bin\Debug\ExercicioContaCelular.exe
+C:\Users\Luigi\Desktop\C#\ExercicioContaCelular\ExercicioContaCelular\bin\Debug\ExercicioContaCelular.pdb
+C:\Users\Luigi\Desktop\C#\ExercicioContaCelular\ExercicioContaCelular\obj\Debug\ExercicioContaCelular.csproj.AssemblyReference.cache
+C:\Users\Luigi\Desktop\C#\ExercicioContaCelular\ExercicioContaCelular\obj\Debug\ExercicioContaCelular.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Desktop\C#\ExercicioContaCelular\ExercicioContaCelular\obj\Debug\ExercicioContaCelular.exe
+C:\Users\Luigi\Desktop\C#\ExercicioContaCelular\ExercicioContaCelular\obj\Debug\ExercicioContaCelular.pdb
